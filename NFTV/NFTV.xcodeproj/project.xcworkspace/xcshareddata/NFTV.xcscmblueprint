@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D69DC09865C5F7FAFD0C89A75BA802FF403919FA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "112EE67C08EC4132013BF7D124F55A42317237F9" : 9223372036854775807,
+    "D69DC09865C5F7FAFD0C89A75BA802FF403919FA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "213B1CF6-28A3-428A-B20F-0C1F34EC4008",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "112EE67C08EC4132013BF7D124F55A42317237F9" : "Github\/",
+    "D69DC09865C5F7FAFD0C89A75BA802FF403919FA" : "NetFreqTV\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NFTV",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NFTV\/NFTV.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bnonni\/Comp-Monitor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "112EE67C08EC4132013BF7D124F55A42317237F9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bnonni\/NetFreqTV-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D69DC09865C5F7FAFD0C89A75BA802FF403919FA"
+    }
+  ]
+}
