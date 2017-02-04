@@ -3,15 +3,10 @@ body{
     background-color: #21C1F2;
 }
 
-.logo img{
-    height: 50px;
-    width: 100px;
-}
-
 .mainVideo{
     margin: auto;
     margin-top: 50px;
-    height: 350px;
+    height: 300px;
     width: 600px;
     background-color: white;
     border: solid 10px black;
@@ -20,7 +15,7 @@ body{
 .videosContain{
     margin:auto;
     height:150px;
-    width:750px;
+    width:700px;
     display: flex;
     flex-direction: row;
     margin-top: 5px;
